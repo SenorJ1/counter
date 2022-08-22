@@ -1,3 +1,25 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+.bigCounter div{
+    text-align: center;
+    background: black; 
+}
+.reloj {
+    font-size: 40px; 
+}
+.bigCounter div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 20px;
+    height: 60px;
+    background: #101010;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+    background: black;
+
+
+
+}
 
 /* 
 
